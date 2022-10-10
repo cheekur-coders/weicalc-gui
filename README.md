@@ -1,21 +1,24 @@
-# [repo-template](https://github.com/cheekur-coders/repo-template) - A Repository Template for All Future [@cheekur-coders](https://github.com/cheekur-coders) Projects
+# [weicalc-gui](https://github.com/cheekur-coders/weicalc-gui) - Weibull Calculator GUI
 
-[Who What When Where Why How] <br>
-Welcome to the [repo-template](https://github.com/cheekur-coders/repo-template) wiki by [@cheekur-coders](https://github.com/cheekur-coders)! [repo-template] is setup in a manner to standardize the documentation across all planned future projects. The goal is to allow for duplication of this repo at the start of a new project to get the documentation rolling. The advantage of using the GitHub Wiki is traceability and edit comments for the documentation. The standardization is required to ensure that documentation is performed irrespective of the size of the project and also help internalize the concepts of software engineering as discussed in "Beginning Sofware Engineering" by Rod Stephens. The standardization is performed by setting up a skeletal wiki pointing to all the important and required documentation for a standard software. 
+Welcome to the [weicalc-gui](https://github.com/cheekur-coders/weicalc-gui) wiki by [@cheekur-coders](https://github.com/cheekur-coders)! [weicalc-gui] is a simple GUI program built with C and Windows API to calculate reliability statistics based on Weibull distribution. The goal is to help [@cheekur-coders](https://github.com/cheekur-coders) with learning C programming, software engineering and at the same time creating a simple and useful calculator. The advantage of using C is to ensure a quick calculator with the least amount of dependencies. The calculator is geared towards Weibull distribution as that is the most common distribution in the Reliability Engineering realm. The code is generated based on a lot of back-end work done to document the requirements and the pertaining program design. An effort has been made to document the entire process of creating this software. 
 
 ## Project Description
-[repo-template](https://github.com/cheekur-coders/repo-template) is an empty project with a skeletal wiki to aid with quick and easy doc setup for future projects planned by @cheekur-coders.
+[weicalc-gui](https://github.com/cheekur-coders/weicalc-gui) is a simple C based Windows GUI application that calculates the following reliability statistics based on the expected life, life unit, beta and eta input by the user.
+- Failure rate
+- Bx% life
+- Reliability after usage (needs usage life input)
+- Unrealibility after usage (needs usage life input)
 
 ## Examples
-None to show in this repo, but a good idea to showcase what the project can do here.
+~WIP~
 
 ## Release
-No releases here as this is a template construct, good idea to indicate the release version and how to build it.
+~WIP~
 
 ## Related Projects
-Link to any related projects if idea was borrowd or code-base was forked.
+None
 
 ## Acknowledgements
 [cheekur-coders](mailto:cheekur.coders@gmail.com)
 
-View the [project wiki](https://github.com/cheekur-coders/repo-template/wiki) for more details.
+View the [project wiki](https://github.com/cheekur-coders/weicalc-gui/wiki) for more details.
